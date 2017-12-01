@@ -1,0 +1,12 @@
+k:\ProjektyC#\22_MidiActivation\MidiActivation\obj\Release\ResolveAssemblyReference.cache
+k:\ProjektyC#\22_MidiActivation\MidiActivation\obj\Release\Window1.baml
+k:\ProjektyC#\22_MidiActivation\MidiActivation\obj\Release\Window1.g.cs
+k:\ProjektyC#\22_MidiActivation\MidiActivation\obj\Release\App.g.cs
+k:\ProjektyC#\22_MidiActivation\MidiActivation\obj\Release\MidiActivation_MarkupCompile.cache
+k:\ProjektyC#\22_MidiActivation\MidiActivation\obj\Release\MidiActivation.g.resources
+k:\ProjektyC#\22_MidiActivation\MidiActivation\obj\Release\MidiActivation.Properties.Resources.resources
+k:\ProjektyC#\22_MidiActivation\MidiActivation\obj\Release\MidiActivation.csproj.GenerateResource.Cache
+k:\ProjektyC#\22_MidiActivation\MidiActivation\bin\Release\MidiActivation.exe
+k:\ProjektyC#\22_MidiActivation\MidiActivation\bin\Release\MidiActivation.pdb
+k:\ProjektyC#\22_MidiActivation\MidiActivation\obj\Release\MidiActivation.exe
+k:\ProjektyC#\22_MidiActivation\MidiActivation\obj\Release\MidiActivation.pdb
